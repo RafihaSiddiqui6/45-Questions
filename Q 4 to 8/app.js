@@ -1,0 +1,18 @@
+//console.log("Napolean Once said, Give me a good mother I will give you a good nation");
+var famous_person = "Napolean";
+var message = "Give me a good mother I will give you a good nation";
+//console.log(`${famous_person} once said, "${message}"`);
+var person_name = "Rafiha\tSiddiqui";
+var person_name1 = "Rfiha\nSiddiqui";
+//console.log(person_name);
+//console.log(person_name1);
+var a = 12;
+var b = 6;
+//console.log(a+b);
+//console.log(a-b);
+//console.log(a*b);
+//console.log(a/b);
+console.log(5 + 3);
+console.log(18 - 10);
+console.log(4 * 2);
+console.log(96 / 12);
